@@ -13,6 +13,8 @@
 
 ## Description
 
+This application takes an existing text editor app and adds functionality for it to work as a PWA and function offline. To run the application, is it required to run the application following npm run start, then open Insomnia and enter your localhost 3000 to run this application on your local machine.
+
 ## User Story
 
 AS A developer
@@ -49,7 +51,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## ScreenShot
 
-![Screenshot](screenshot1.png)
+![Screenshot](screenshot.png)
 
 ## Contributors
 
